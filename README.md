@@ -2,8 +2,8 @@
 
 ## Description 
 
-Shows how to implement an NFC HCE (Host Card Emulation) tap+pay application. 
-Also shows how to communicate with a smart card or NFC tag.
+Shows how to implement an NFC read (fetch) data application. 
+This app is UWP sample.
 
 ## Screenshots
 ![Shot 1](Images/shot1.png)
@@ -15,10 +15,8 @@ Also shows how to communicate with a smart card or NFC tag.
 **Phone os:** Windows 10 Mobile
 
 ## Description
-This repository is NFC App prototype (draft, sketch) made with Xamarin Forms tech specially for Android system. 
-(the original source code was the Troika Dumper, the nativ Android application on Java). 
-This app cannot write data, but reads some important parameters: the UID, balance of transport card, etc.
-Please note: this is only technology prototype, my result of NFC-on-Android micro-RnD. 
+This repository is NFC App prototype (draft, sketch) made with UWP tech. 
+This app cannot write data, but reads some transport card's parameters... in encrypted form ;) 
 
 # Contribute!
 There's still a TON of things missing from this proof-of-concept (MVP) and areas of improvement 
