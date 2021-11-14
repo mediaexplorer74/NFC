@@ -28,7 +28,7 @@ With best wishes,
 ## Thanks!
 I wanted to put down some thank you's here for folks/projects/websites that were invaluable 
 for helping me get this project into a functional state:
-- [Microsoft UWP Samples](https://docs.microsoft.com/samples/microsoft/windows-universal-samples/) Good (but too late, heh!) example of NFC UWP app, by Microsoft!)
+- [Microsoft UWP Samples](https://github.com/microsoft/windows-universal-samples/) Good (but too late, heh!) example of NFC UWP app, by Microsoft!)
 
 NFC is RnD project only. AS-IS. No support. Distributed under the MIT License.
 
